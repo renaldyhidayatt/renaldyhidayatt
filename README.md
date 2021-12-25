@@ -1,10 +1,23 @@
-## My Name is Renaldy Hidayat
+### My Name is Renaldy Hidayat
 
+### I'm a Python Developer
+- I'm learing Data Science & Machine Learning
+- 2022 Goals: Rust, Typescript and Full Emacs
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldyhidayatt&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-[![Renaldy Hidayat wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HunterRk)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Activity Github and Wakatime</h3>
+<details>
+    <ul>
+        <li>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldyhidayatt" />
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/wakatime?username=renaldyhidayatt" />
+            </a>
+        </li>
+    </ul>
+</details>
