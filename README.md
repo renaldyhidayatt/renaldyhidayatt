@@ -1,8 +1,16 @@
 ### My Name is Renaldy Hidayat
 
 ### I'm a Python Developer
-- I'm learing Data Science & Machine Learning
-- 2022 Goals: Rust, Typescript and Full Emacs
+    - My Dream 2022 Goals:
+        1. Advanced Feature Python:
+            - Advanced Feature Fastapi
+            - Advanced Feature Django
+        2. Advanced Golang
+        3. Advanced Typescript
+        4. Minimal Rust
+        5. Minimal Defensive Server
+        6. Minimal Reverse Engineering
+        7. Full Emacs
 
 <h3>Activity Github and Wakatime</h3>
 <details>
