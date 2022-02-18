@@ -1,7 +1,7 @@
 ### My Name is Renaldy Hidayat
 
 ### I'm a Python Developer
-    - My Dream 2022 Goals:
+    My Dream 2022 Goals:
         1. Advanced Feature Python:
             - Advanced Feature Fastapi
             - Advanced Feature Django
