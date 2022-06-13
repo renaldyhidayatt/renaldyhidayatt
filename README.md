@@ -2,15 +2,26 @@ Hi there :wave:, My name is Renaldy Hidayat
 
 ### I'm a Python Developer
 
+<br />
 <h3>Activity Github and Wakatime</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldyhidayatt" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=renaldyhidayatt" />
-</a>
+<details>
+    <ul>
+        <li>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldyhidayatt" />
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/wakatime?username=renaldyhidayatt" />
+            </a>
+        </li>
+    </ul>
+</details>
+
+<br />
 
 ### Languages and Tools
 
