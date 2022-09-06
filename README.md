@@ -1,6 +1,7 @@
-Hi there :wave:, My name is Renaldy Hidayat
+### Hi there :wave:,
+Hello, I'm Renaldy Hidayat, here I'm exploring the world of backend developers and a bit frontend
 
-### I'm a Python Developer
+
 
 <br />
 <h3>Activity Github and Wakatime</h3>
