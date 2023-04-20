@@ -11,8 +11,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
+
+      - name: General
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: renaldyhidayatt
           template: classic

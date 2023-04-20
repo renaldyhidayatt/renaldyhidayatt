@@ -12,7 +12,8 @@ Hello, I'm Renaldy Hidayat, a Computer Science candidate at Nusa Mandiri Univers
 
 # 📊 GitHub Stats:
 
-<img src="github-metrics.svg" alt="github-metrics" />
+<img src="general.svg" alt="github-metrics" />
+<img src="achievements.svg" alt="achievements" />
 
 ### ✍️ Random Dev Quote
 
