@@ -28,7 +28,7 @@ jobs:
         continue-on-error: true
         with:
           filename: general.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: renaldyhidayatt
           template: classic
           base: header, activity, repositories
