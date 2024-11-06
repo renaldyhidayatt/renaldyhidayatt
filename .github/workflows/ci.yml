@@ -1,10 +1,10 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{ cron: '0 * * * *' }]
+  schedule: [{ cron: "0 0 * * *" }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: { branches: ['master', 'main'] }
+  push: { branches: ["master", "main"] }
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -17,7 +17,7 @@ jobs:
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
