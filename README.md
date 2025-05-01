@@ -1,41 +1,69 @@
-# 💫 About Me:
-
-I&apos;m  Renaldy Hidayat a Computer Science candidate at Nusa Mandiri University, and
-I&apos;m deeply passionate about programming. My journey in the world
-of technology has been an exciting adventure, driven by the endless
-opportunities for learning. Whether it&apos;s exploring cutting-edge
-programming languages, leveraging groundbreaking frameworks, or
-applying technology in innovative ways, I&apos;m always up for the
-challenge. Staying updated with the latest developments is a priority,
-as I strive to incorporate them into my work.
-
-My dedication to turning hobbies into meaningful projects is a source
-of fulfillment. It allows me to merge creativity with technical
-expertise. Crafting web applications and developing software solutions
-are areas where I find immense satisfaction, bringing ideas to life
-through code. Above all, my commitment to continuous improvement
-drives my journey. I firmly believe that success in the tech world is
-rooted in lifelong learning. Every day is an opportunity to expand my
-knowledge, refine my skills, and embrace new challenges head-on. This
-unwavering dedication keeps me pushing the boundaries.
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/renaldy.hidayat.54) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renaldy-hidayat-40033a1b5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Quick_Handle_3733)
-
-# 💻 Tech Stack:
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-# 📊 GitHub Stats:
-
-<img src="general.svg" alt="github-metrics" />
-<img src="achievements.svg" alt="achievements" />
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<img src="./images/image_banner.png" alt="hello">
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=renaldyhidayatt&icon=0&color=2)](https://visitcount.itsvg.in)
+I'm a **Software Engineer** with a deep passion for backend development and building reliable, scalable systems. I enjoy working with modern programming languages and technologies to create clean, maintainable, and high-performing applications.
+
+Skilled in **Golang, Python, Java, and Rust**, I focus on developing APIs, designing microservices architectures, and integrating robust messaging systems like **Kafka** and **RabbitMQ**. My enthusiasm for programming drives me to turn hobbies into impactful, real-world projects—combining creativity with strong technical execution.
+
+I stay actively engaged with the latest tech trends, continuously refining my skills and applying them across a wide range of use cases—from payment systems to recommendation engines and developer tools.
+
+---
+
+<p align="center">
+  <a href="https://renaldyhidayatt.github.io/portofolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="portfolio" />
+  </a>
+  <a href="mailto:renaldyhidayatt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-renaldyhidayatt%40gmail.com-red?style=for-the-badge&logo=gmail" alt="email" />
+  </a>
+  <a href="https://linkedin.com/in/renaldyhidayatt">
+    <img src="https://img.shields.io/badge/LinkedIn-Renaldy%20Hidayat-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: Go, Python, Java, Rust, TypeScript, PHP, JavaScript  
+- **Frameworks**: Echo, Fiber, Django, FastAPI, Spring Boot, Laravel, NestJS, Express  
+- **Messaging & Communication**: Kafka, RabbitMQ, gRPC, NATS  
+- **Database**: PostgreSQL, MySQL, Redis, SQLite, MongoDB  
+- **DevOps & Tools**: Docker, Linux, GitHub Actions, NGINX
+
+---
+
+
+
+### 📌 Featured Projects
+
+- 🔗 [**Ecommerce FastAPI + PayPal**](https://github.com/renaldyhidayatt/ecomfastapireact) – FastAPI-based eCommerce with PayPal and Swagger UI
+- 🔗 [**Microservice Ecommerce (NestJS)**](https://github.com/renaldyhidayatt/MicroserviceTcpNestReact) – Modular microservices using NestJS, PostgreSQL, Midtrans, and RajaOngkir
+- 🔗 [**Product Recommendation with Django-React**](https://github.com/renaldyhidayatt/django_react_recommendation_product) – Sentiment-based recommendation system
+- 🔗 [**Ecommerce Go-Fiber**](https://github.com/renaldyhidayatt/ecommerce_fiber_gorm) – Built with Fiber, gRPC, PostgreSQL, and Tauri
+- 🔗 [**Prodigio ERP**](https://github.com/renaldyhidayatt/prodigio-erp-public-main) – ERP system for construction companies
+- 🔗 [**Payment Gateway with gRPC**](https://github.com/renaldyhidayatt/payment-gateway-grpc) – Secure payment gateway using Echo, gRPC, SQLC
+- 🔗 [**Personal Finance App**](https://github.com/renaldyhidayatt/personal-financial-management.git) – Built with Tauri, React, Zustand, and SQLite
+
+👉 [See my full portfolio here »](https://renaldyhidayatt.github.io/portofolio)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=renaldyhidayatt&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=renaldyhidayatt&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renaldyhidayatt&show_icons=true&theme=gruvbox" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldyhidayatt&layout=compact&theme=gruvbox" height="160" />
+</p>
+
+
+
+<img src="https://raw.githubusercontent.com/renaldyhidayatt/renaldyhidayatt/output/snake.svg" alt="Snake animation" />
