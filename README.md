@@ -65,5 +65,18 @@ I stay actively engaged with the latest tech trends, continuously refining my sk
 </p>
 
 
+### 📈 Wakatime Stats
+
+<details>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=renaldyhidayatt&theme=gruvbox" alt="360" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=renaldyhidayatt&layout=compact&theme=gruvbox" alt="360" />
+  </p>
+</detail>
+
+
+<!--START_SECTION:waka>
+
+<!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/renaldyhidayatt/renaldyhidayatt/output/snake.svg" alt="Snake animation" />
