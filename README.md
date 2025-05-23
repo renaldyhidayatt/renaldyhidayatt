@@ -72,7 +72,7 @@ I stay actively engaged with the latest tech trends, continuously refining my sk
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=renaldyhidayatt&theme=gruvbox" alt="360" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=renaldyhidayatt&layout=compact&theme=gruvbox" alt="360" />
   </p>
-</detail>
+</details>
 
 
 <!--START_SECTION:waka>
