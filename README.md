@@ -14,8 +14,8 @@ I stay actively engaged with the latest tech trends, continuously refining my sk
   <a href="https://renaldyhidayatt.github.io/portofolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="portfolio" />
   </a>
-  <a href="mailto:renaldyhidayatt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-renaldyhidayatt%40gmail.com-red?style=for-the-badge&logo=gmail" alt="email" />
+  <a href="mailto:renaldyhidayatt@proton.me">
+    <img src="https://img.shields.io/badge/Email-renaldyhidayatt%proton.me-red?style=for-the-badge&logo=gmail" alt="email" />
   </a>
   <a href="https://linkedin.com/in/renaldyhidayatt">
     <img src="https://img.shields.io/badge/LinkedIn-Renaldy%20Hidayat-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
@@ -26,10 +26,10 @@ I stay actively engaged with the latest tech trends, continuously refining my sk
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Go, Python, Java, Rust, TypeScript, PHP, JavaScript  
-- **Frameworks**: Echo, Fiber, Django, FastAPI, Spring Boot, Laravel, NestJS, Express  
-- **Messaging & Communication**: Kafka, RabbitMQ, gRPC, NATS  
-- **Database**: PostgreSQL, MySQL, Redis, SQLite, MongoDB  
+- **Languages**: Go, Python, Java, Rust, TypeScript, PHP, JavaScript
+- **Frameworks**: Echo, Fiber, Django, FastAPI, Spring Boot, Laravel, NestJS, Express
+- **Messaging & Communication**: Kafka, RabbitMQ, gRPC, NATS
+- **Database**: PostgreSQL, MySQL, Redis, SQLite, MongoDB
 - **DevOps & Tools**: Docker, Linux, GitHub Actions, NGINX
 
 ---
@@ -38,15 +38,17 @@ I stay actively engaged with the latest tech trends, continuously refining my sk
 
 ### 📌 Featured Projects
 
-- 🔗 [**Ecommerce FastAPI + PayPal**](https://github.com/renaldyhidayatt/ecomfastapireact) – FastAPI-based eCommerce with PayPal and Swagger UI
-- 🔗 [**Microservice Ecommerce (NestJS)**](https://github.com/renaldyhidayatt/MicroserviceTcpNestReact) – Modular microservices using NestJS, PostgreSQL, Midtrans, and RajaOngkir
-- 🔗 [**Product Recommendation with Django-React**](https://github.com/renaldyhidayatt/django_react_recommendation_product) – Sentiment-based recommendation system
-- 🔗 [**Ecommerce Go-Fiber**](https://github.com/renaldyhidayatt/ecommerce_fiber_gorm) – Built with Fiber, gRPC, PostgreSQL, and Tauri
-- 🔗 [**Prodigio ERP(Laravel)**](https://github.com/renaldyhidayatt/prodigio-erp-public-main) – ERP system for construction companies
-- 🔗 [**Payment Gateway with gRPC**](https://github.com/renaldyhidayatt/payment-gateway-grpc) – Secure payment gateway using Echo, gRPC, SQLC
-- 🔗 [**Personal Finance App**](https://github.com/renaldyhidayatt/personal-financial-management.git) – Built with Tauri, React, Zustand, and SQLite
+- 🔗 [**Monolith Digital Payment Platform**](https://renaldyhidayatt.github.io/#/portfolio/monolith-payment-gateway) – Payment Gateway menggunakan Echo, gRPC, SQLC, PostgreSQL, Prometheus, OpenTelemetry, Zap, Goose, Zookeeper, NGINX, Jaeger, Grafana, Redis, Docker, Kubernetes, Promtail, Node exporter, dan Loki - On Progress
+- 🔗 [**Ecommerce Platform**](https://renaldyhidayatt.github.io/#/portfolio/monolith-ecommerce) -
+  Platform e-commerce dengan stack serupa dengan digital payment platform — In Progress
+- 🔗 [**Point of Sale Platform**](https://renaldyhidayatt.github.io/#/portfolio/monolith-point-of-sale) - Platform pointofsale dengan stack serupa dengan digital payment platform — In Progress
+- 🔗 [**Ecommerce FastAPI + PayPal**](https://renaldyhidayatt.github.io/#/portfolio/ecommerce-fastapi) – FastAPI-based eCommerce with PayPal and Swagger UI
+- 🔗 [**Microservice Ecommerce (NestJS)**](https://renaldyhidayatt.github.io/#/portfolio/microservice-tcp-nestjs) – Modular microservices using NestJS, PostgreSQL, Midtrans, and RajaOngkir
+- 🔗 [**Django-React Recommendation System**](https://renaldyhidayatt.github.io/#/portfolio/sistem-rekomendasi-ecommerce) – Sentiment-based recommendation system
+- 🔗 [**Prodigio ERP(Laravel)**](https://renaldyhidayatt.github.io/#/portfolio/prodigio-erp-laravel) – ERP system for construction companies
+- 🔗 [**Payment Gateway with gRPC**](https://renaldyhidayatt.github.io/#/portfolio/payment-gateway-grpc) – Secure payment gateway using Echo, gRPC, SQLC
 
-👉 [See my full portfolio here »](https://renaldyhidayatt.github.io/portofolio)
+👉 [See my full portfolio here »](https://renaldyhidayatt.github.io/#portfolio)
 
 ---
 
