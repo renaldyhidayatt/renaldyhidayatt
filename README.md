@@ -10,17 +10,19 @@ I stay actively engaged with the latest tech trends, continuously refining my sk
 
 ---
 
+
 <p align="center">
   <a href="https://renaldyhidayatt.github.io/portofolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="portfolio" />
   </a>
   <a href="mailto:renaldyhidayatt@proton.me">
-    <img src="https://img.shields.io/badge/Email-renaldyhidayatt%proton.me-red?style=for-the-badge&logo=gmail" alt="email" />
+    <img src="https://img.shields.io/badge/Email-renaldyhidayatt%40proton.me-red?style=for-the-badge&logo=protonmail" alt="email" />
   </a>
-  <a href="https://linkedin.com/in/renaldyhidayatt">
+  <a href="https://linkedin.com/in/renaldyhidayatt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Renaldy%20Hidayat-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
   </a>
 </p>
+
 
 ---
 
@@ -68,7 +70,7 @@ I stay actively engaged with the latest tech trends, continuously refining my sk
 
 
 ### 📈 Wakatime Stats
-
+[![wakatime](https://wakatime.com/badge/user/dcf68692-a3f0-46fb-8166-af27f002af48.svg)](https://wakatime.com/@dcf68692-a3f0-46fb-8166-af27f002af48)
 <details>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=renaldyhidayatt&theme=gruvbox" alt="360" />
@@ -82,3 +84,5 @@ I stay actively engaged with the latest tech trends, continuously refining my sk
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/renaldyhidayatt/renaldyhidayatt/output/snake.svg" alt="Snake animation" />
+
+
